@@ -5,6 +5,8 @@
 </div>
 <p align="left">I am living in Danang, Vietnam.</p>
 
+<p align="left">I am living in Danang, Vietnam.</p>
+
 ###
 
 <h1 align="left">About me</h1>
@@ -15,13 +17,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<p align="left">I code with</p>
+<h1 align="left">I code with</h1>
 
 ###
 
@@ -38,6 +34,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
+
+###
+
+<h1 align="left">Contact Information</h1>
 
 ###
 
