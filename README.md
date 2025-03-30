@@ -19,7 +19,13 @@
 
 ###
 
-<p align="left">- Love to learn and explore<br>- Love to play sports, listen to music and play games</p>
+<p align="left">
+    - I am a third year student at Duy Tan University
+    <br>
+    - Love to play sports, listen to music and play games
+     <br>
+    -  Love to learn and explore
+</p>
 
 ###
 
